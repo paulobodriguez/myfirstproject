@@ -225,4 +225,5 @@ const movieCheck = () => {
 movieCheck()
 */
 
+console.log ("hello wolrd")
 
